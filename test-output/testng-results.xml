@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17259" started-at="2023-08-10T05:04:55Z" finished-at="2023-08-10T05:05:12Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17259" started-at="2023-08-10T05:04:55Z" finished-at="2023-08-10T05:05:12Z">
+      <class name="a1_googleTest.A1_SampleGoogle">
+        <test-method status="PASS" signature="loginGoogleTest()[pri:0, instance:a1_googleTest.A1_SampleGoogle@2038ae61]" name="loginGoogleTest" duration-ms="17212" started-at="2023-08-10T10:34:55Z" finished-at="2023-08-10T10:35:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginGoogleTest -->
+      </class> <!-- a1_googleTest.A1_SampleGoogle -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite name="New Suite" duration-ms="0" started-at="2023-08-10T05:05:21Z" finished-at="2023-08-10T05:05:21Z">
+    <groups>
+    </groups>
+  </suite> <!-- New Suite -->
+  <suite name="Suite (0)" duration-ms="8936" started-at="2023-08-10T05:05:12Z" finished-at="2023-08-10T05:05:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8936" started-at="2023-08-10T05:05:12Z" finished-at="2023-08-10T05:05:21Z">
+      <class name="a2_bingTest.A1_SampleBing">
+        <test-method status="PASS" signature="loginGoogleTest()[pri:0, instance:a2_bingTest.A1_SampleBing@2b2948e2]" name="loginGoogleTest" duration-ms="8936" started-at="2023-08-10T10:35:12Z" finished-at="2023-08-10T10:35:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginGoogleTest -->
+      </class> <!-- a2_bingTest.A1_SampleBing -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+</testng-results>
